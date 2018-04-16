@@ -1,0 +1,2 @@
+# dynamixapi
+Dynamix PHP Library
